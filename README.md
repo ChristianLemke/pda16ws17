@@ -1,6 +1,9 @@
 # pda16ws17
 physiological data analysis for educational technologies
 
+# SDRR Data Analysis
+from Christian Lemke
+
 # Python version
 * Python3 is needed for this exercise
 
