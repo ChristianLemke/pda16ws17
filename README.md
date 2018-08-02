@@ -2,8 +2,16 @@
 <img src="result/result_sdrr_error.png" width=40% align="right" />
 Seminar: Physiological Data Analysis for Educational Technologies
 
-## SDRR Data Analysis
-from Christian Lemke
+I am analyzing my stress level using heart rate date from a fitness tracker.
+The standard deviation of the heart RR-Interval (SDRR) is used as the feature for the data analysis.
+I observed a high stress level during public transportation and at the beginning of an exam which I was writing on this day.
+
+The Jupyther Notebook contains the analysis and further information.
+
+Keywords: Klassification Problem, Time series data, Python, Pandas, Jupyther Notebook
+
+
+# Install
 
 ## Python version
 * Python3 is needed for this exercise
